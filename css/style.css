@@ -71,7 +71,7 @@
     border-radius: 20px;
     background: #ebecf2;
     box-shadow:  5px 5px 6px #cccdd3, -5px -8px 6px #ffffff, -2px -3px 6px #cccdd3, -5px -8px 6px #ffffff;
-    border: 2px solid #8b8b8b;
+    border: none;
 }
 
 .btn.doble{
